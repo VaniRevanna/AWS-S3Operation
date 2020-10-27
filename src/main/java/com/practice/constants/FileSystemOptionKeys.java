@@ -1,0 +1,20 @@
+package com.practice.constants;
+
+public enum FileSystemOptionKeys {
+    PROTOCOL,
+    USER_NAME,
+    PASSWORD,
+    PORT,
+    REMOTE_DESTINATION,
+    LOCAL_DESTINATION,
+    TO_DESTINATION,
+    REMOTE_DIR,
+    FILE_NAME,
+    REGULAR_EXPRESSION,
+    FILE_OBJECT,
+    CONTENT_MIME_TYPE,
+    FROM_DESTINATION,
+    ENVIRONMENT,
+    CORRELATION_ID,
+    ENTITY_ID
+}
